@@ -9,5 +9,12 @@
     <h3>JavaScript Primer</h3>
 
 <script src="primer.js"></script>
+<script src="node_modules/systemjs/dist/system.src.js"></script>
+<script>
+    System.config({packages: {"" : {}}});
+    System.import("primer").catch(function (err) {
+        console.log(err);
+    })
+</script>
 </body>
 </html>
