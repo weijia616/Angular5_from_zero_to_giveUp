@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c3119c72-02ea-4c40-8480-196274fc4fd4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SportsStore/.angular-cli.json" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/.angular-cli.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SportsStore/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SportsStore/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SportsStore/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SportsStore/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/src/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,20 +46,20 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="32" />
-          <entry key="html" value="718" />
+          <entry key="html" value="726" />
           <entry key="js" value="1104" />
           <entry key="json" value="582" />
           <entry key="ts" value="2315" />
-          <entry key="txt" value="413" />
+          <entry key="txt" value="467" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="32" />
-          <entry key="HTML" value="718" />
+          <entry key="HTML" value="726" />
           <entry key="JSON" value="496" />
           <entry key="JavaScript" value="1104" />
-          <entry key="PLAIN_TEXT" value="413" />
+          <entry key="PLAIN_TEXT" value="467" />
           <entry key="TypeScript" value="2315" />
           <entry key="tsconfig" value="86" />
         </counts>
@@ -120,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/SportsStore/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="9" column="102" selection-start-line="9" selection-start-column="102" selection-end-line="9" selection-end-column="102" />
+              <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -298,7 +295,7 @@
     <property name="SearchEverywhereHistoryKey" value="angular.json&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/todo/.angular-cli.json&#10;angular&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/.angular-cli.json&#10;app.module.ts&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/todo/src/app/app.module.ts" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552874954575" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552875636340" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -327,7 +324,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551149744751</updated>
-      <workItem from="1551149746432" duration="27376000" />
+      <workItem from="1551149746432" duration="28010000" />
     </task>
     <task id="LOCAL-00001" summary="bring FormsModule in">
       <created>1551323755730</created>
@@ -434,11 +431,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552534657428</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="bootstrap not working, add bondi first aid temp">
+      <created>1552875045053</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1552875045053</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27376000" />
+    <option name="totallyTimeSpent" value="28010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="23" width="1253" height="1057" extended-state="0" />
@@ -450,13 +454,13 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20148638" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20148638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="TypeScript" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32908705" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32908705" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -530,7 +534,8 @@
     <MESSAGE value="add model.module.ts" />
     <MESSAGE value="create store component" />
     <MESSAGE value="$npm start" />
-    <option name="LAST_COMMIT_MESSAGE" value="$npm start" />
+    <MESSAGE value="bootstrap not working, add bondi first aid temp" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap not working, add bondi first aid temp" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/todo/package.json">
@@ -778,7 +783,7 @@
     <entry file="file://$PROJECT_DIR$/SportsStore/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="102" selection-start-line="9" selection-start-column="102" selection-end-line="9" selection-end-column="102" />
+          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
         </state>
       </provider>
     </entry>
