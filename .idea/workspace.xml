@@ -6,13 +6,32 @@
   <component name="ChangeListManager">
     <list default="true" id="c3119c72-02ea-4c40-8480-196274fc4fd4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SportsStore/src/app/store/store.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/src/app/store/store.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SportsStore/src/app/store/store.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/src/app/store/store.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SportsStore/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SportsStore/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1814659856">
@@ -25,42 +44,42 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="8" />
+          <entry key="html" value="9" />
           <entry key="js" value="2" />
           <entry key="json" value="8" />
           <entry key="md" value="1" />
-          <entry key="ts" value="18" />
+          <entry key="ts" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="8" />
+          <entry key="HTML" value="9" />
           <entry key="JSON" value="7" />
           <entry key="JavaScript" value="2" />
           <entry key="Markdown" value="1" />
-          <entry key="TypeScript" value="18" />
+          <entry key="TypeScript" value="20" />
           <entry key="tsconfig" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="32" />
-          <entry key="html" value="726" />
+          <entry key="css" value="33" />
+          <entry key="html" value="1230" />
           <entry key="js" value="1104" />
           <entry key="json" value="582" />
-          <entry key="ts" value="2315" />
+          <entry key="ts" value="2427" />
           <entry key="txt" value="467" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="32" />
-          <entry key="HTML" value="726" />
+          <entry key="CSS" value="33" />
+          <entry key="HTML" value="1230" />
           <entry key="JSON" value="496" />
           <entry key="JavaScript" value="1104" />
           <entry key="PLAIN_TEXT" value="467" />
-          <entry key="TypeScript" value="2315" />
+          <entry key="TypeScript" value="2427" />
           <entry key="tsconfig" value="86" />
         </counts>
       </usages-collector>
@@ -75,6 +94,15 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SportsStore/.angular-cli.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SportsStore/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -87,57 +115,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SportsStore/node_modules/@angular/core/src/metadata/ng_module.d.ts">
+        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="4" />
+            <state relative-caret-position="250">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SportsStore/.angular-cli.json">
+        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/store/store.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="535">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SportsStore/src/styles.css">
+        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/product.repository.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+            <state relative-caret-position="450">
+              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/store/store.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SportsStore/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/app.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SportsStore/src/main.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -147,27 +170,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="479">
               <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/product.model.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/product.repository.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -188,6 +190,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>p-a-1</find>
+      <find>m-a-1</find>
+      <find>p-1</find>
       <find>styles</find>
     </findStrings>
   </component>
@@ -215,16 +220,16 @@
         <option value="$PROJECT_DIR$/SportsStore/src/app/model/static.datasource.ts" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/model/product.repository.ts" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/model/model.module.ts" />
-        <option value="$PROJECT_DIR$/SportsStore/src/app/store/store.component.ts" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/store/store.component.html.ts" />
-        <option value="$PROJECT_DIR$/SportsStore/src/app/store/store.component.html" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/store/store.module.ts" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/todo/.angular-cli.json" />
         <option value="$PROJECT_DIR$/SportsStore/.angular-cli.json" />
         <option value="$PROJECT_DIR$/SportsStore/src/styles.css" />
+        <option value="$PROJECT_DIR$/SportsStore/src/app/store/store.component.ts" />
         <option value="$PROJECT_DIR$/SportsStore/src/index.html" />
+        <option value="$PROJECT_DIR$/SportsStore/src/app/store/store.component.html" />
       </list>
     </option>
   </component>
@@ -281,7 +286,15 @@
               <item name="Angular5_from_zero_to_giveUp" type="462c0819:PsiDirectoryNode" />
               <item name="SportsStore" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="environments" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular5_from_zero_to_giveUp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular5_from_zero_to_giveUp" type="462c0819:PsiDirectoryNode" />
+              <item name="SportsStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,10 +305,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="angular.json&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/todo/.angular-cli.json&#10;angular&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/.angular-cli.json&#10;app.module.ts&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/todo/src/app/app.module.ts" />
+    <property name="SearchEverywhereHistoryKey" value="store.comp&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;angular.json&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/todo/.angular-cli.json&#10;angular&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/.angular-cli.json&#10;app.module.ts&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/todo/src/app/app.module.ts" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552875636340" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553050592296" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -324,7 +337,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551149744751</updated>
-      <workItem from="1551149746432" duration="28010000" />
+      <workItem from="1551149746432" duration="31683000" />
     </task>
     <task id="LOCAL-00001" summary="bring FormsModule in">
       <created>1551323755730</created>
@@ -438,11 +451,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552875045053</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="bootstrap not working, add bondi first aid temp">
+      <created>1552875647073</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1552875647074</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28010000" />
+    <option name="totallyTimeSpent" value="31683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="23" width="1253" height="1057" extended-state="0" />
@@ -454,10 +474,10 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20148638" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20148638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="TypeScript" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" weight="0.32908705" />
@@ -662,23 +682,6 @@
     <entry file="file://$PROJECT_DIR$/SportsStore/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/store/store.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/store/store.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/model.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -706,36 +709,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/product.repository.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/todo/.angular-cli.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
           <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SportsStore/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,13 +726,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/SportsStore/.angular-cli.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="318">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -769,21 +743,67 @@
     <entry file="file://$PROJECT_DIR$/SportsStore/src/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SportsStore/.angular-cli.json">
+    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="360">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SportsStore/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/product.repository.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/store/store.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SportsStore/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
+        <state relative-caret-position="375">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/store/store.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
