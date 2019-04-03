@@ -1,5 +1,6 @@
 <div class="navbar navbar-inverse bg-inverse">
-  <a class="navbar-brand">SPORTS STORE</a>
+  <a class="navbar-brand">STORE</a>
+  <cart-summary></cart-summary>
 </div>
 
 <div class="col-sm-3 p-3">
@@ -19,7 +20,13 @@
           {{product.price | currency: "USD": true: "2.2-2"}}
         </span>
       </h4>
-      <div class="card-text p-3">{{product.description}}</div>
+      <div class="card-text p-3">
+        {{product.description}}
+
+        <button class="btn btn-success btn-sm pull-right" (click)="addProductToCart(product)">
+          Add to Cart
+        </button>
+      </div>
     </div>
 
 
