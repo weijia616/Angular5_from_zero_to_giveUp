@@ -4,7 +4,7 @@ import {StaticDatasource} from "./static.datasource";
 import {Cart} from "./cart.model";
 
 @NgModule({
-  providers: [ProductRepository, Cart]
+  providers: [ProductRepository, StaticDatasource, Cart]
 })
 
 export class ModelModule{}
