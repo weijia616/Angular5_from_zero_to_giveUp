@@ -18,7 +18,7 @@
       <tr *ngIf="cart.lines.length == 0">
         <td colspan="4" class="text-center">Cart is empty.</td>
       </tr>
-      <tr *ngIf="let line of cart.lines">
+      <tr *ngFor="let line of cart.lines">
         <td>
           <input type="number" class="form-control-sm" style="width: 5em;" 
                  [value]="line.quantity" 
