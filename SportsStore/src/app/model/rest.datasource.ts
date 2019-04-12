@@ -1,16 +1,16 @@
 import {Injectable} from "@angular/core";
 import {Http, Request, RequestMethod} from "@angular/http";
-import {Observable} from "rxjs";
+import {Observable} from "rxjs/Observable";
 import {Product} from "./product.model";
 import {Order} from "./order.model";
 import 'rxjs/add/operator/map';
 
 const PROTOCOL = "http";
-const PORT = 3500;
+const PORT = 3500; //based on package.json JSON port number
 
 
 @Injectable()
-export class RestDatasource {
+export class RestDataSource {
   baseUrl: string;
 
   constructor(private http: Http) {
