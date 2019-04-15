@@ -18,7 +18,7 @@ export class AuthComponent {
   authenticate(form: NgForm) {
     if (form.valid) {
       //perform authentication
-      this.router.navigateByUrl("admin/main");
+      this.router.navigateByUrl("/admin/main");
     } else {
       this.errorMessage = "Form data invalid";
     }

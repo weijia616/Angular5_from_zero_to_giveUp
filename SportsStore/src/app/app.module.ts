@@ -30,7 +30,7 @@ import {StoreFirstGuard} from "./storeFirst.guard";
       },
       {
         path: "admin",
-        loadChildren: "app/admin/admin.module#AmindModule",
+        loadChildren: "app/admin/admin.module#AdminModule",
         canActivate: [StoreFirstGuard]
       },
       {path: "**", redirectTo: "/store"}
