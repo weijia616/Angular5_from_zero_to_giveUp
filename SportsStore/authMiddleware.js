@@ -2,7 +2,7 @@ const jwt = require("jsonwebtoken");
 
 const APP_SECRET = "myappsecret";
 const USERNAME = "admin";
-const PASSWORD = "secret";
+const PASSWORD = "pass";
 
 module.exports = function (req, res, next) {
   if (req.url == "/login" && req.method == "POST") {
