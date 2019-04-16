@@ -66,8 +66,8 @@
           <entry key="html" value="4010" />
           <entry key="js" value="1104" />
           <entry key="json" value="586" />
-          <entry key="ts" value="8459" />
-          <entry key="txt" value="1062" />
+          <entry key="ts" value="8462" />
+          <entry key="txt" value="1084" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -76,8 +76,8 @@
           <entry key="HTML" value="4009" />
           <entry key="JSON" value="500" />
           <entry key="JavaScript" value="1105" />
-          <entry key="PLAIN_TEXT" value="1062" />
-          <entry key="TypeScript" value="8459" />
+          <entry key="PLAIN_TEXT" value="1084" />
+          <entry key="TypeScript" value="8462" />
           <entry key="tsconfig" value="86" />
         </counts>
       </usages-collector>
@@ -103,8 +103,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/rest.datasource.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="42" column="86" lean-forward="true" selection-start-line="42" selection-start-column="86" selection-end-line="42" selection-end-column="86" />
+            <state relative-caret-position="210">
+              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -361,7 +361,7 @@
     <property name="SearchEverywhereHistoryKey" value="rest&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/rest.datasource.ts&#10;app.module.ts&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;store.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;app&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;store.com&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;model&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;model.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;module.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;checkout&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/checkout.component.ts&#10;stati&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/static.datasource.ts&#10;cartde&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/cartDetail.component.ts&#10;app.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;cartsumm&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/cartSummary.component.html&#10;store.comp&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.ts&#10;store&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.module.ts&#10;model.module&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;cart.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/cart.model.ts&#10;store.co&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;store.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.module.ts&#10;angular.json&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/todo/.angular-cli.json&#10;angular&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/.angular-cli.json" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555383281999" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555383535596" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -393,7 +393,7 @@
       <updated>1551149744751</updated>
       <workItem from="1551149746432" duration="32385000" />
       <workItem from="1553128093853" duration="8685000" />
-      <workItem from="1554265182210" duration="20398000" />
+      <workItem from="1554265182210" duration="20641000" />
     </task>
     <task id="LOCAL-00001" summary="bring FormsModule in">
       <created>1551323755730</created>
@@ -640,11 +640,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555297995847</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="extend rest datasource">
+      <created>1555383413784</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1555383413784</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61468000" />
+    <option name="totallyTimeSpent" value="61711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="23" width="1253" height="1057" extended-state="0" />
@@ -721,7 +728,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="set data and authMiddleware.js" />
     <MESSAGE value="class Product and Static data source" />
     <MESSAGE value="create product.repository.ts" />
     <MESSAGE value="add model.module.ts" />
@@ -746,7 +752,8 @@
     <MESSAGE value="create admin and auth component" />
     <MESSAGE value="add admin path to app.module.ts" />
     <MESSAGE value="add admin button at main page" />
-    <option name="LAST_COMMIT_MESSAGE" value="add admin button at main page" />
+    <MESSAGE value="extend rest datasource" />
+    <option name="LAST_COMMIT_MESSAGE" value="extend rest datasource" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/todo/package.json">
@@ -1141,8 +1148,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/rest.datasource.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="42" column="86" lean-forward="true" selection-start-line="42" selection-start-column="86" selection-end-line="42" selection-end-column="86" />
+        <state relative-caret-position="210">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

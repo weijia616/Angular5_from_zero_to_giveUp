@@ -18,8 +18,8 @@ export class RestDataSource {
     this.baseUrl = `${PROTOCOL}://${location.hostname}:${PORT}/`;
   }
 
-  private sendRequest(verb: RequestMethod, url: string, auth: boolean = false,
-                      body?: Product | Order):
+  private sendRequest(verb: RequestMethod, url: string,
+                      body?: Product | Order, auth: boolean = false):
     Observable<Product[] | Product | Order[] | Order> {
 
     let request = new Request({
