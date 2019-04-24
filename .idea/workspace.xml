@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3119c72-02ea-4c40-8480-196274fc4fd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SportsStore/src/app/admin/orderTable.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SportsStore/src/app/admin/productEditor.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SportsStore/src/app/admin/productTable.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SportsStore/authMiddleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/authMiddleware.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SportsStore/src/app/model/order.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/src/app/model/order.repository.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SportsStore/src/app/model/product.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/src/app/model/product.repository.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SportsStore/src/app/model/rest.datasource.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/src/app/model/rest.datasource.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SportsStore/src/app/admin/admin.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/SportsStore/src/app/admin/admin.component.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,42 +45,42 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
-          <entry key="html" value="16" />
+          <entry key="html" value="17" />
           <entry key="js" value="5" />
           <entry key="json" value="10" />
           <entry key="md" value="1" />
-          <entry key="ts" value="45" />
+          <entry key="ts" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="HTML" value="16" />
+          <entry key="HTML" value="17" />
           <entry key="JSON" value="9" />
           <entry key="JavaScript" value="5" />
           <entry key="Markdown" value="1" />
-          <entry key="TypeScript" value="45" />
+          <entry key="TypeScript" value="48" />
           <entry key="tsconfig" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="134" />
-          <entry key="html" value="4010" />
+          <entry key="html" value="4319" />
           <entry key="js" value="1138" />
           <entry key="json" value="586" />
-          <entry key="ts" value="10486" />
-          <entry key="txt" value="1229" />
+          <entry key="ts" value="10664" />
+          <entry key="txt" value="1289" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="134" />
-          <entry key="HTML" value="4009" />
+          <entry key="HTML" value="4319" />
           <entry key="JSON" value="500" />
           <entry key="JavaScript" value="1139" />
-          <entry key="PLAIN_TEXT" value="1229" />
-          <entry key="TypeScript" value="10486" />
+          <entry key="PLAIN_TEXT" value="1289" />
+          <entry key="TypeScript" value="10663" />
           <entry key="tsconfig" value="86" />
         </counts>
       </usages-collector>
@@ -118,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/order.repository.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="845">
-              <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+            <state relative-caret-position="421">
+              <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -131,34 +131,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/admin/productTable.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="79" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/admin/productEditor.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/admin/orderTable.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/admin/admin.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/auth.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state relative-caret-position="175">
               <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/admin/auth.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/admin/auth.guard.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -183,30 +195,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#58#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/model.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -256,7 +244,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/todo/package.json" />
         <option value="$PROJECT_DIR$/todo/src/index.html" />
         <option value="$PROJECT_DIR$/todo/src/app/model.ts" />
         <option value="$PROJECT_DIR$/todo/src/app/app.module.ts" />
@@ -292,7 +279,6 @@
         <option value="$PROJECT_DIR$/SportsStore/src/app/store/cartDetail.component.html" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/auth/auth.component.ts" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/admin/auth.component.html" />
-        <option value="$PROJECT_DIR$/SportsStore/src/app/admin/admin.component.html" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/store/store.component.html" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/admin/admin.component.ts" />
@@ -305,6 +291,10 @@
         <option value="$PROJECT_DIR$/SportsStore/src/app/model/rest.datasource.ts" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/model/product.repository.ts" />
         <option value="$PROJECT_DIR$/SportsStore/src/app/model/order.repository.ts" />
+        <option value="$PROJECT_DIR$/SportsStore/src/app/admin/productTable.component.ts" />
+        <option value="$PROJECT_DIR$/SportsStore/src/app/admin/productEditor.component.ts" />
+        <option value="$PROJECT_DIR$/SportsStore/src/app/admin/orderTable.component.ts" />
+        <option value="$PROJECT_DIR$/SportsStore/src/app/admin/admin.component.html" />
       </list>
     </option>
   </component>
@@ -380,10 +370,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="order.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/order.repository.ts&#10;rest&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/rest.datasource.ts&#10;admin&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/admin.module.ts&#10;auth.com&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/auth.component.ts&#10;model.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;app.module.ts&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;store.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;app&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;store.com&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;model&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;module.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;checkout&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/checkout.component.ts&#10;stati&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/static.datasource.ts&#10;cartde&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/cartDetail.component.ts&#10;app.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;cartsumm&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/cartSummary.component.html&#10;store.comp&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.ts&#10;store&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.module.ts&#10;model.module&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;cart.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/cart.model.ts&#10;store.co&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;store.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.module.ts&#10;angular.json&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/todo/.angular-cli.json&#10;angular&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/.angular-cli.json" />
+    <property name="SearchEverywhereHistoryKey" value="admin.compo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/admin.component.html&#10;order.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/order.repository.ts&#10;rest&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/rest.datasource.ts&#10;admin&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/admin.module.ts&#10;auth.com&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/auth.component.ts&#10;model.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;app.module.ts&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;store.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;app&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;store.com&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;model&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;module.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;checkout&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/checkout.component.ts&#10;stati&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/static.datasource.ts&#10;cartde&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/cartDetail.component.ts&#10;app.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;cartsumm&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/cartSummary.component.html&#10;store.comp&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.ts&#10;store&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.module.ts&#10;model.module&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;cart.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/cart.model.ts&#10;store.co&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;store.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.module.ts&#10;angular.json&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/todo/.angular-cli.json&#10;angular&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/.angular-cli.json" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555556485990" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556073972022" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -415,7 +405,7 @@
       <updated>1551149744751</updated>
       <workItem from="1551149746432" duration="32385000" />
       <workItem from="1553128093853" duration="8685000" />
-      <workItem from="1554265182210" duration="26151000" />
+      <workItem from="1554265182210" duration="28058000" />
     </task>
     <task id="LOCAL-00001" summary="bring FormsModule in">
       <created>1551323755730</created>
@@ -697,11 +687,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555385564811</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="update order and product repository with rest datasource">
+      <created>1555558050855</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1555558050855</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67221000" />
+    <option name="totallyTimeSpent" value="69128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="23" width="1253" height="1057" extended-state="0" />
@@ -778,7 +775,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="$npm start" />
     <MESSAGE value="bootstrap not working, add bondi first aid temp" />
     <MESSAGE value="bootstrap again" />
     <MESSAGE value="clean" />
@@ -803,29 +799,10 @@
     <MESSAGE value="create a service to implement auth" />
     <MESSAGE value="modify authenticate in auth.component.ts" />
     <MESSAGE value="add auth guard to pervent application direct goto admin page" />
-    <option name="LAST_COMMIT_MESSAGE" value="add auth guard to pervent application direct goto admin page" />
+    <MESSAGE value="update order and product repository with rest datasource" />
+    <option name="LAST_COMMIT_MESSAGE" value="update order and product repository with rest datasource" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/todo/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todo/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todo/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/todo/src/app/model.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1080,13 +1057,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/admin/admin.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SportsStore/protractor.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -1131,16 +1101,6 @@
           <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/auth.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1202,13 +1162,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/order.repository.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="845">
-          <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        <state relative-caret-position="421">
+          <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/admin/productTable.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="79" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/admin/productEditor.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/admin/orderTable.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SportsStore/src/app/admin/admin.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
         </state>
       </provider>
     </entry>
