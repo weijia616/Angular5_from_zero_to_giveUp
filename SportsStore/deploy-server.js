@@ -8,6 +8,7 @@ app.use("/node_modules",
 app.use("/",
   express.static("/usr/src/sportsstore/app"));
 
-app.listen(3000, function () {
-  console.log("HTTP Server running on port 3000");
-})
+// based on Protractor.js
+app.listen(4200, function () {
+  console.log("HTTP Server running on port 4200");
+});
