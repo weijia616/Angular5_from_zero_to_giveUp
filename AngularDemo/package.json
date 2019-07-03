@@ -21,7 +21,7 @@
     "concurrently": "2.2.0"
   },
   "scripts": {
-    "start": "concurrently \"npm run tscwatch\" \"rpm run lite\" ",
+    "start": "concurrently \"npm run tscwatch\" \"npm run lite\" ",
     "tsc": "tsc",
     "tscwatch": "tsc -w",
     "lite": "lite-server",
