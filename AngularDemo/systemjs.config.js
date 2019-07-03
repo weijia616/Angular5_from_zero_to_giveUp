@@ -3,7 +3,7 @@
     var paths = {
         "rxjs/*": "node_modules/rxjs/bundle/Rx.min.js",
         "@angular/*": "node_modules/@angular/*"
-    }
+    };
 
     var packages = {"app": {}};
 
