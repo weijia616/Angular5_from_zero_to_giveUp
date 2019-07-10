@@ -10,7 +10,16 @@ export class ProductComponent {
     model: Model = new Model();
 
     getClasses(): string {
-        return this.model.getProducts().length == 5 ? "bg-success" : "bg-warning";
+        return this.model.getProducts().length == 5
+            ? "bg-success" : "bg-warning";
+    }
 
+    getClassMap(id: number): Object
+    {
+        let product = this.model.getProduct(id);
+        return {
+            "text-xs-center bg-danger": product.name.length > 1,
+            "bg-info": product.price > 100
+        }
     }
 }

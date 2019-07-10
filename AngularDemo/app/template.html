@@ -5,8 +5,13 @@
 
 <!--special method for binding class-->
 <div class="p-a-1"
-     [class.bg-success]="model.getProducts().length > 5">
+     [class.bg-success]="model.getProducts().length == 5">
     There are {{model.getProducts().length}} products in the models
+</div>
+
+<div class="p-a-1" [ngClass]="getClassMap(1)">
+    The first product name is {{model.getProduct(1).name}}
+
 </div>
 
 <div class="form-group m-t-1">
