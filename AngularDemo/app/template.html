@@ -1,20 +1,25 @@
 <!--standard method for binding class -->
 <div [ngClass]="'p-a-1 ' + getClasses()">
-    There are {{model.getProducts().length}} products in the model
+    There are {{ getProductCount() }} products in the model
 </div>
 
 <!--special method for binding class-->
 <div class="p-a-1"
      [class.bg-success]="model.getProducts().length == 5">
-    There are {{model.getProducts().length}} products in the models
+    There are {{ getProductCount() }} products in the models
 </div>
 
 <div class="p-a-1" [ngClass]="getClassMap(1)">
-    The first product name is {{model.getProduct(1).name}}
+    The first product name is {{getProduct(1).name}}
 
+</div>
+
+<!--ngIf-->
+<div *ngIf="getProductCount() > 4" class="bg-info p-a-1 m-t-1">
+    There are more than 4 products in the model
 </div>
 
 <div class="form-group m-t-1">
     <label for="input-name">Name:</label>
-    <input id="input-name" class="form-control" [value]="model.getProduct(1)?.name || 'None'" />
+    <input id="input-name" class="form-control" [value]="getProduct(1)?.name || 'None'" />
 </div>

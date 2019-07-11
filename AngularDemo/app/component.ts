@@ -1,5 +1,6 @@
 import {Component} from "@angular/core";
 import {Model} from "./repository.model";
+import {Product} from "./product.model";
 
 @Component({
     selector: "app",
@@ -21,5 +22,20 @@ export class ProductComponent {
             "text-xs-center bg-danger": product.name.length > 1,
             "bg-info": product.price > 100
         }
+    }
+
+    getProduct(id: number): Product
+    {
+        return this.model.getProduct(id);
+    }
+
+    getProducts(): Product[]
+    {
+        return this.model.getProducts();
+    }
+
+    getProductCount(): number
+    {
+        return this.getProducts().length;
     }
 }
