@@ -19,6 +19,13 @@
     There are more than 4 products in the model
 </div>
 
+<!--ngSwitch-->
+<div class="bg-info p-a-1 m-t-1" [ngSwitch]="getProductCount()">
+    <span *ngSwitchCase="2">There are 2 products</span>
+    <span *ngSwitchCase="5">There are 5 products</span>
+    <span *ngSwitchDefault>This is the default</span>
+</div>
+
 <div class="form-group m-t-1">
     <label for="input-name">Name:</label>
     <input id="input-name" class="form-control" [value]="getProduct(1)?.name || 'None'" />
