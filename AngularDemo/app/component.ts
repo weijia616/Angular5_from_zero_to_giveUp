@@ -10,6 +10,10 @@ import {Product} from "./product.model";
 export class ProductComponent {
     model: Model = new Model();
 
+    getKey(index: number, product: Product) {
+        return product.id;
+    }
+
     getClasses(): string {
         return this.model.getProducts().length == 5
             ? "bg-success" : "bg-warning";
