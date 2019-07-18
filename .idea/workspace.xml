@@ -7,7 +7,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c3119c72-02ea-4c40-8480-196274fc4fd4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngularDemo/app/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/AngularDemo/app/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularDemo/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/AngularDemo/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularDemo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/AngularDemo/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,19 +68,19 @@
           <entry key="css" value="134" />
           <entry key="html" value="7228" />
           <entry key="js" value="1927" />
-          <entry key="json" value="1381" />
-          <entry key="ts" value="13364" />
-          <entry key="txt" value="1922" />
+          <entry key="json" value="1389" />
+          <entry key="ts" value="13373" />
+          <entry key="txt" value="1975" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="134" />
           <entry key="HTML" value="7228" />
-          <entry key="JSON" value="1210" />
+          <entry key="JSON" value="1218" />
           <entry key="JavaScript" value="1928" />
-          <entry key="PLAIN_TEXT" value="1922" />
-          <entry key="TypeScript" value="13363" />
+          <entry key="PLAIN_TEXT" value="1975" />
+          <entry key="TypeScript" value="13372" />
           <entry key="tsconfig" value="171" />
         </counts>
       </usages-collector>
@@ -118,7 +119,7 @@
         <entry file="file://$PROJECT_DIR$/AngularDemo/tsconfig.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -126,13 +127,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularDemo/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            <state relative-caret-position="300">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularDemo/app/template.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
@@ -144,8 +145,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularDemo/app/component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="358">
+              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -153,11 +154,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AngularDemo/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="150">
+              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -181,7 +182,7 @@
         <entry file="file://$PROJECT_DIR$/AngularDemo/systemjs.config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -290,13 +291,13 @@
         <option value="$PROJECT_DIR$/AngularDemo/app/product.model.ts" />
         <option value="$PROJECT_DIR$/AngularDemo/app/datasource.model.ts" />
         <option value="$PROJECT_DIR$/AngularDemo/app/repository.model.ts" />
-        <option value="$PROJECT_DIR$/AngularDemo/app/app.module.ts" />
         <option value="$PROJECT_DIR$/AngularDemo/app/main.ts" />
-        <option value="$PROJECT_DIR$/AngularDemo/package.json" />
         <option value="$PROJECT_DIR$/AngularDemo/index.html" />
         <option value="$PROJECT_DIR$/AngularDemo/systemjs.config.js" />
         <option value="$PROJECT_DIR$/AngularDemo/app/component.ts" />
         <option value="$PROJECT_DIR$/AngularDemo/app/template.html" />
+        <option value="$PROJECT_DIR$/AngularDemo/package.json" />
+        <option value="$PROJECT_DIR$/AngularDemo/app/app.module.ts" />
       </list>
     </option>
   </component>
@@ -372,10 +373,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="systemjs&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/systemjs.config.js&#10;tscon&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/tsconfig.json&#10;main&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/main.ts&#10;index&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/index.html&#10;compo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/component.ts&#10;tem&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/template.html&#10;repo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/repository.model.ts&#10;sta&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/static.datasource.ts&#10;datas&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/datasource.model.ts&#10;produ&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/product.model.ts&#10;datasou&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/static.datasource.ts&#10;product&#9;null&#9;null&#10;package.json&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/package.json&#10;package&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/package.json&#10;midd&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/authMiddleware.js&#10;order&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/orderTable.component.ts&#10;admin&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/admin.module.ts&#10;admin.compo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/admin.component.html&#10;order.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/order.repository.ts&#10;rest&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/rest.datasource.ts&#10;auth.com&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/auth.component.ts&#10;model.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;app.module.ts&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;store.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;app&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;store.com&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;model&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;module.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;checkout&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/checkout.component.ts&#10;stati&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/static.datasource.ts&#10;cartde&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/cartDetail.component.ts&#10;app.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;cartsumm&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/cartSummary.component.html&#10;store.comp&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.ts&#10;store&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.module.ts&#10;model.module&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;cart.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/cart.model.ts&#10;store.co&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;store.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.module.ts&#10;angular.json&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/todo/.angular-cli.json&#10;angular&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/.angular-cli.json" />
+    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/app.module.ts&#10;package.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/package.json&#10;systemjs&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/systemjs.config.js&#10;tscon&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/tsconfig.json&#10;main&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/main.ts&#10;index&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/index.html&#10;compo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/component.ts&#10;tem&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/template.html&#10;repo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/repository.model.ts&#10;sta&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/static.datasource.ts&#10;datas&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/datasource.model.ts&#10;produ&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/app/product.model.ts&#10;datasou&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/static.datasource.ts&#10;product&#9;null&#9;null&#10;package.json&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/AngularDemo/package.json&#10;package&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/package.json&#10;midd&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/authMiddleware.js&#10;order&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/orderTable.component.ts&#10;admin&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/admin.module.ts&#10;admin.compo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/admin.component.html&#10;order.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/order.repository.ts&#10;rest&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/rest.datasource.ts&#10;auth.com&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/admin/auth.component.ts&#10;model.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;app.module.ts&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;store.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;store.com&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;model&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;module.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;checkout&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/checkout.component.ts&#10;stati&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/static.datasource.ts&#10;cartde&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/cartDetail.component.ts&#10;app.&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/app.module.ts&#10;cartsumm&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/cartSummary.component.html&#10;store.comp&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.ts&#10;store&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.module.ts&#10;model.module&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/model.module.ts&#10;cart.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/model/cart.model.ts&#10;store.co&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.component.html&#10;store.mo&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/src/app/store/store.module.ts&#10;angular.json&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/todo/.angular-cli.json&#10;angular&#9;FILE&#9;file:///Users/weijiaPro/Codes_Github/weijia616_GIT/Angular5_from_zero_to_giveUp/SportsStore/.angular-cli.json" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563417971298" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563419872006" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -413,14 +414,7 @@
       <workItem from="1551149746432" duration="32385000" />
       <workItem from="1553128093853" duration="8685000" />
       <workItem from="1554265182210" duration="49677000" />
-      <workItem from="1561782665249" duration="20307000" />
-    </task>
-    <task id="LOCAL-00018" summary="bootstrap again">
-      <created>1553050669864</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1553050669864</updated>
+      <workItem from="1561782665249" duration="21070000" />
     </task>
     <task id="LOCAL-00019" summary="clean">
       <created>1553051313307</created>
@@ -758,17 +752,24 @@
       <option name="project" value="LOCAL" />
       <updated>1563161755559</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="&lt;ng-template&gt; only for angular 4, others &lt;template&gt;">
+      <created>1563418006338</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1563418006338</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111054000" />
+    <option name="totallyTimeSpent" value="111817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="23" width="1253" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21139555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21139555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -784,7 +785,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32908705" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32908705" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -845,7 +846,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update order and product repository with rest datasource" />
     <MESSAGE value="create three admin component" />
     <MESSAGE value="finish URL router config" />
     <MESSAGE value="product table finish" />
@@ -870,7 +870,8 @@
     <MESSAGE value="*ngIf" />
     <MESSAGE value="*ngSwitchCase" />
     <MESSAGE value="*ngFor" />
-    <option name="LAST_COMMIT_MESSAGE" value="*ngFor" />
+    <MESSAGE value="&lt;ng-template&gt; only for angular 4, others &lt;template&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;ng-template&gt; only for angular 4, others &lt;template&gt;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SportsStore/src/app/model/cart.model.ts">
@@ -1191,21 +1192,14 @@
     <entry file="file://$PROJECT_DIR$/AngularDemo/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularDemo/systemjs.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AngularDemo/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1233,30 +1227,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularDemo/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/AngularDemo/app/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="450">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularDemo/app/component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        <state relative-caret-position="358">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AngularDemo/app/template.html">
+    <entry file="file://$PROJECT_DIR$/AngularDemo/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        <state relative-caret-position="300">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularDemo/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
