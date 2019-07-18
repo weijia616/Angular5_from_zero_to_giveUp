@@ -40,5 +40,11 @@
         <td>{{item.category}}</td>
         <td>{{item.price}}</td>
     </tr>
-
 </table>
+
+<!--ngTemplateOutlet-->
+<template #titleTemplate>
+    <h4 class="p-a-1 bg-success">Repeated Content</h4>
+</template>
+
+<template [ngTemplateOutlet]="titleTemplate"></template>
