@@ -42,4 +42,10 @@ export class ProductComponent {
     {
         return this.getProducts().length;
     }
+
+    selectedProductName: string;
+    isSelected(product: Product): boolean
+    {
+        return this.selectedProductName == product.name;
+    }
 }
