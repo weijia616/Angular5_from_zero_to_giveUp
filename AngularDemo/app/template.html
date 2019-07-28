@@ -33,15 +33,15 @@
 
 <!--ngFor-->
 <div class="bg-info p-a-1">
-    Selected Product: {{selectedProductName || 'None'}}
+    Selected Product: {{productNameVar.value || 'None'}}
 </div>
 <table class="table table-sm table-bordered m-t-1">
     <tr><th>Name</th><th>Category</th><th>Price</th></tr>
     <tr *ngFor="let item of getProducts(); let oddItem = odd; let i = index"
         [class.bg-primary]="oddItem"
         [class.bg-info]="!oddItem"
-        [class.bg-success]="isSelected(item)"
-        (mouseover)="selectedProductName = item.name">
+        [class.bg-success]="productNameVar.value == item.name"
+        (mouseover)="productNameVar.value = item.name">
         <td>{{i + 1}}</td>
         <td>{{item.name}}</td>
         <td>{{item.category}}</td>
@@ -50,7 +50,7 @@
 </table>
 <div class="form-group">
     <label>Search Product Name:</label>
-    <input name="search-product-name" class="form-control" (input)="selectedProductName = $event.target.value" />
+    <input #productNameVar name="search-product-name" class="form-control" (input)="selectedProductName = $event.target.value" />
 </div>
 
 <!--ngTemplateOutlet-->
