@@ -48,4 +48,14 @@ export class ProductComponent {
     {
         return this.selectedProductName == product.name;
     }
+
+
+    newProduct: Product = new Product();
+    get jsonNewProduct() {
+        return JSON.stringify(this.newProduct);
+    }
+
+    displayNewProduct(p: Product) {
+        console.log("new product" + this.jsonNewProduct);
+    }
 }

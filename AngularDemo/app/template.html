@@ -66,3 +66,27 @@
 </template>
 
 <template [ngTemplateOutlet]="titleTemplate"></template>
+
+
+
+
+
+<!--two way binding example-->
+<div class="bg-info p-a-1">
+    Model data: {{jsonNewProduct}}
+</div>
+<div class="form-group">
+    <label>new Product NAME</label>
+    <input class="form-control" [(ngModel)]="newProduct.name" />
+</div>
+<div class="form-group">
+    <label>new Product CATEGORY</label>
+    <input class="form-control" [(ngModel)]="newProduct.category" />
+</div>
+<div class="form-group">
+    <label>new Product PRICE</label>
+    <input class="form-control" [(ngModel)]="newProduct.price" />
+</div>
+<button class="btn-primary btn" (click)="displayNewProduct(newProduct)">
+    Create a new Product
+</button>
