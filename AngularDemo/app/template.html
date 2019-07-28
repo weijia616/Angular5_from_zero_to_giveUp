@@ -48,6 +48,10 @@
         <td>{{item.price}}</td>
     </tr>
 </table>
+<div class="form-group">
+    <label>Search Product Name:</label>
+    <input name="search-product-name" class="form-control" (input)="selectedProductName = $event.target.value" />
+</div>
 
 <!--ngTemplateOutlet-->
 <template #titleTemplate>
