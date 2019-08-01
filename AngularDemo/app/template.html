@@ -75,18 +75,46 @@
 <div class="bg-info p-a-1">
     Model data: {{jsonNewProduct}}
 </div>
-<div class="form-group">
-    <label>new Product NAME</label>
-    <input class="form-control" [(ngModel)]="newProduct.name" />
-</div>
-<div class="form-group">
-    <label>new Product CATEGORY</label>
-    <input class="form-control" [(ngModel)]="newProduct.category" />
-</div>
-<div class="form-group">
-    <label>new Product PRICE</label>
-    <input class="form-control" [(ngModel)]="newProduct.price" />
-</div>
-<button class="btn-primary btn" (click)="displayNewProduct(newProduct)">
-    Create a new Product
-</button>
+<form novalidate (ngSubmit)="displayNewProduct(newProduct)">
+    <div class="form-group">
+        <label>new Product NAME</label>
+        <input #name="ngModel"
+               name="new-product-name"
+               class="form-control ng-pristine ng-invalid ng-touched"
+               [(ngModel)]="newProduct.name"
+               required
+               minlength="5"
+               pattern="^[A-Za-z ]+$"/>
+        <ul class="text-danger list-unstyled"
+            *ngIf="name.dirty && name.invalid">
+            <li *ngIf="name.errors.required">
+                This input is required!!!
+            </li>
+            <li *ngIf="name.errors.pattern">
+                Name pattern is wrong!!!
+            </li>
+            <li *ngIf="name.errors.minlength">
+                This name must be at least {{name.errors.minlength.requiredLength}} characters.
+            </li>
+        </ul>
+    </div>
+    <div class="form-group">
+        <label>new Product CATEGORY</label>
+        <input name="new-product-category" class="form-control" [(ngModel)]="newProduct.category" />
+    </div>
+    <div class="form-group">
+        <label>new Product PRICE</label>
+        <input name="new-product-price" class="form-control" [(ngModel)]="newProduct.price" />
+    </div>
+    <button class="btn-primary btn" type="submit">
+        Create a new Product
+    </button>
+</form>
+<style>
+    input.ng-dirty.ng-invalid {
+        border: 2px red solid;
+    }
+    input.ng-dirty.ng-valid {
+        border: 2px green solid;
+    }
+</style>
