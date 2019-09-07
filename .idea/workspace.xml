@@ -100,13 +100,6 @@
       <workItem from="1554265182210" duration="49677000" />
       <workItem from="1561782665249" duration="21070000" />
     </task>
-    <task id="LOCAL-00029" summary="update model module">
-      <created>1554693761084</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1554693761084</updated>
-    </task>
     <task id="LOCAL-00030" summary="create rest data">
       <created>1554777575588</created>
       <option name="number" value="00030" />
@@ -443,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567882054764</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="direct specific class to element">
+      <created>1567885029125</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1567885029125</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,7 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="set ts config json for compiler" />
     <MESSAGE value="prevent browser sync get info from different interaction and get confused" />
     <MESSAGE value="build up ts" />
     <MESSAGE value="finish model component and as well as app.module.ts &amp; main.ts" />
@@ -501,7 +500,8 @@
     <MESSAGE value="simple form to present two way binding" />
     <MESSAGE value="resume" />
     <MESSAGE value="create first self directive: pa-attr" />
-    <option name="LAST_COMMIT_MESSAGE" value="create first self directive: pa-attr" />
+    <MESSAGE value="direct specific class to element" />
+    <option name="LAST_COMMIT_MESSAGE" value="direct specific class to element" />
   </component>
   <component name="masterDetails">
     <states>
