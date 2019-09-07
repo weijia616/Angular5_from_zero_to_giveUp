@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3119c72-02ea-4c40-8480-196274fc4fd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AngularDemo/app/attr.directive.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngularDemo/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/AngularDemo/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AngularDemo/app/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/AngularDemo/app/template.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,6 +76,16 @@
       </list>
     </option>
   </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -88,13 +100,6 @@
       <workItem from="1553128093853" duration="8685000" />
       <workItem from="1554265182210" duration="49677000" />
       <workItem from="1561782665249" duration="21070000" />
-    </task>
-    <task id="LOCAL-00027" summary="order model and order repository">
-      <created>1554689562963</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1554689562963</updated>
     </task>
     <task id="LOCAL-00028" summary="complete checkout component">
       <created>1554693636079</created>
@@ -432,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564344475041</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="resume">
+      <created>1567881229615</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1567881229616</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bug fix" />
     <MESSAGE value="set node modules" />
     <MESSAGE value="set ts config json for compiler" />
     <MESSAGE value="prevent browser sync get info from different interaction and get confused" />
@@ -489,7 +500,8 @@
     <MESSAGE value="two way binding" />
     <MESSAGE value="use [()] to two way binding var, when input changes, var update; when var changes, input also update." />
     <MESSAGE value="simple form to present two way binding" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple form to present two way binding" />
+    <MESSAGE value="resume" />
+    <option name="LAST_COMMIT_MESSAGE" value="resume" />
   </component>
   <component name="masterDetails">
     <states>
